@@ -531,7 +531,7 @@ background-color: whitesmoke;
    }
    @media screen and (max-width:750px){
        *{
-           width: 100%;
+           width: 99%;
        }
     #mainbranch{
         width: 100%;

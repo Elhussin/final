@@ -636,6 +636,10 @@ background-color: whitesmoke;
     table {
         width: 98%;
     }
+      table td{
+         width:50%
+      }
+         
     #mainhome table{
         width: 100%;
     }
